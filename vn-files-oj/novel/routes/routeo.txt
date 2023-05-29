@@ -1,0 +1,277 @@
+%route%
+{fulltxt=true}
+me As I opened the door to the school rooftop my heart nearly skipped a beat
+$ns
+me I have admired my classmate Sora since freshman year
+me Never would I think to have the courage to so much as go up to her
+me In fact if you had explained this scene to me prior I would have laughed you out of the room
+$ns
+me And yet, just days before graduation I had summoned the courage of all my ancestors and slipped a note onto her desk
+me The note read:
+{fulltxt=false}
+me 'Meet on the school rooftop after classes ❤ - anonymous'
+{fulltxt=true}
+me A stupid note I know, but it was the only thing my heavily beating heart and shaking hand could eek out
+$ns
+me Shaking my head, I snap myself out of my thoughts and back into the present moment
+me Stalling isn't going to do me any good, now was my one and only chance
+me I grad the handle to the door
+$ns
+me I push it open and.........
+
+{fulltxt=false, bg=main, charc=s}
+me I stop in my tracks
+me Juxtaposed against the blue sky, Sora looked more beautiful than she ever could in the classroom
+me My mind started spinning in circles
+me I can't believe she came!, what does she think of me?, what do I say?, I must look stupid
+me I shove all those thoughts aside
+me Even with my mind in a fog, I knew this would be my last chance to express how I really felt
+me All my school years had been leading up to this moment
+me Now is my only chance before today's brief surge of confidence diminishes
+me I was certain that today, regardless of the outcome would be one of, if not the most important day of my life
+me ...
+me With nobody to interrupt me I open my mouth and say...
+p PO!
+me huh?
+p POPO!
+me It was like bad karma, bestowed onto me for stalling
+p POPPOPOPO!
+me The voice got louder
+me My mood quickly switched from distraught to rage
+me Who/What could possibly come interrupt me at this very moment
+me Nobody ever wants to talk to me until this absolute worst possible moment
+me Out of nowhere something runs in between me and Sora
+{charc=p}
+me ...
+p ...
+me I stare at it
+p *Stares back*
+me I size it up
+me It was some sort of small creature
+me It looked to be a strange hybrid girl/hamster/mouse thing
+me I continue staring as it stares back, not uttering a word
+{charc=p3}
+me As I look into its eyes an unspeakable rage starts to well up from inside of me
+me A rage that could only be brought on by piercing eyes such as these
+me Who knew something this cute could garner such a negative reaction
+{charc=p}
+p POPO!
+me My eye twitches
+p POPOPO!
+me That’s it
+mes Get out of the way!
+mes Or your not going to like what happens next!
+me The small creature shakes its head
+p POPOOPPPOOPO!
+{charc=d}
+me Suddenly the creature throws me a dice
+{charc=p}
+me I flinch slightly, catching it my hands
+mes Huh?
+{charc=p2}
+me Out of nowhere an orange banner appears in the sky and numbers labelled ATK/DEF/EVD/HP appear below me and the creature's feet
+me My numbers are ATK +1, DEF +0, EVD +0, HP 5 while the creatures are ATK -1, DEF -1, EVD -1, HP 7
+p POKKYUPPO!
+me I could not be more confused
+me My emotions have changed from confident to nervous to enraged to bewildered in such a short period of time
+me Though one thing can be certain
+me Whether or not I know what is going on will not change the fact
+me This creature who interrupted my heartfelt confession to Sora must pay!
+mes Bring it on!
+me The creature pulls out its own dice from seemingly thin air and rolls it
+{charc=p6}
+p POIPPO!
+{charc=d4}
+me Four
+{charc=p2}
+me The creature rolls a four but I honestly have no idea what that means
+me It is now motioning towards me
+me I can only guess it is telling me to roll the dice it has given me
+{charc=d}
+me I hold out the strange dice
+me It is about 10x the size of any normal dice with the 1 being an orange dot as opposed to the standard black dots
+{charc=clear}
+me I throw the dice out in front of me
+me Its large size makes its result very obvious
+{charc=d2}
+me Two
+{charc=clear}
+me Within an instant It became very clear to me what it meant.
+mes Aghh!
+me I felt as if a strong wind had knocked some of my life force out of me
+me I fall to my knees, coughing from my sudden loss of breath
+me Wincing through the pain I manage to look over at Sora
+{charc=s}
+me She stares her face painted with her usual emotionless expression
+me Though before I turn away I think I see a tinge of concern in her eyes
+{charc=clear}
+me As I stand back up I turn back towards my enemy
+{charc=p2}
+me Somehow its soulless eyes have become even more antagonizing
+me I stop for a moment to regain my energy
+me It seems I will need all the energy I can get to survive this battle I have somehow found myself in
+me Looking below me my then five hp stat has fallen to a three
+me I can only imagine what will happen if it gets to zero
+{charc=clear}
+me Picking up my dice I roll it
+{charc=d4}
+me Four
+{charc=p2}
+me I sneer at my opponent
+mes Ha, go ahead and try
+{charc=p5}
+me In its first change of expression the creatures eyes narrow
+me It seems to realize I am getting serious
+{charc=p6}
+p POTAH!
+me It rolls a...
+{charc=d3}
+me Three
+{charc=p2}
+me I chuckle
+me Maybe this battle will be over sooner than I thought
+p POO!
+me I wait anxiously to see the creature revel in pain like myself
+me Though this reaction is not what I received
+me Instead the thing hardly reacts
+me I look up at its new hp level
+me I begin to sweat
+me It is still at a four
+me Somehow I overlooked its starting hp stat of seven
+me I can't let it get to me
+me Shaking any bad thoughts out of my head I prepare for its next roll
+{charc=p6}
+p POPOPOPOPOPO!!
+{charc=d3}
+me A three
+{charc=battle}
+me I feel life coming back into me
+me I start to get cocky again
+mes Three? Ha! At least try a little
+me I ready my dice
+$ca
+me I close my eyes
+me Throwing it in front of me I channel all my luck into this roll
+me Though I always thought of myself as pretty unlucky
+{bg=main, charc=d}
+me As I open my eyes
+me A one stares back at me
+me At once I am hit with an indescribable wave of pain
+{charc=clear}
+me I fall backwards
+me I feel my conscious slipping
+{charc=s}
+me I glance at Sora one last time before I pass out
+
+$ca
+s Please...
+s Please wake up!
+{bg=sky, charc=s2}
+me My eyes slowly flicker open
+me The sight before me almost makes me pass out again
+me Above me is Sora
+me She is so close I can feel her breath on my sweaty skin
+me Her usually placid expression is dropped, replaced by a look of genuine concern
+mes So..Sora...
+me I barley get my words out
+s Why are you doing all this for me?
+s Please don't fight anymore
+mes I... Just wanted to make you happy
+{charc=s4}
+me Sora's face once again exhibits a new expression, pure amazement
+me Holding myself up with my shaky hands I say in the most genuine way I can
+me I struggle to get up
+mes You've always seemed so melancholy Sora
+mes I just thought that maybe, If I could show you that people care about you...
+mes I could see you smile
+mes So please
+mes Let me finish this
+me Breathing heavily I get myself fully up
+me I look at Sora and smile
+me ...
+{charc=clear, bg=main}
+me I snap out of it head back towards my enemy
+
+s Wait!
+me I look back
+{charc=s5}
+me Sora's eyes avert my gaze and she begins to blush
+me Before I can say anything she rushes towards me and envelops me in a hug
+$ca
+me Stunned I stand there frozen in shock
+s Th...ank you
+me She says in a timid voice
+me Still mid embrace, she slips something small and flat into my hand
+{bg=main, charc=s5}
+me Pushing away she looks me in the eyes once before running off to where she was standing
+{charc=clear}
+me I turn back towards my enemy
+{charc=p2}
+me All my stress is gone
+me I will not fail
+me I pickup my dice when the object in my left hand catches my eye
+me Thats right, what did Sora give me?
+me Looking down I see a card
+{charc=c}
+me Written on it is a title "Extraordinary Specs"
+me Underneath that title is a photo of a girl in a purplish uniform
+me She looks a lot like Sora but that’s probably just my imagination
+me At the bottom of the card it says "Roll 6 for movement, battle, bonus, and drop."
+me I am once again quite confused but I think its best not to question it
+me With this I can't lose!
+{charc=p2}
+me I throw the card down in front of me and stare at my enemy with narrowed eyes
+{charc=p4}
+me The creature looks bewildered
+me As if I have broken the rules
+p Pokkyaan!!
+me Maybe I have but I do not care
+{charc=clear, bg=sky}
+me I pickup my dice and hold it to the heavens
+mes I'll use everything I have...!
+{bg=main}
+me I roll my dice
+{charc=d6}
+me The six appears
+{charc=p2}
+me The creature is sweating
+me Shaking, It rolls its dice
+me ...
+me ...
+me ...
+me The dice seems to roll forever
+me Finally it teeters back and forth settling on
+{charc=d2}
+me A two
+me In an instant the attack hits the creature sending it flying into the air
+{charc=p4}
+p Popiiiiiiiii.......
+me It screams as it disappears into the sky
+{charc=clear}
+me I sigh deeply and smile
+me I relax for the first time, looking clearly at Sora
+{charc=s}
+me Her hair blows in the wind, illuminated crimson by the slowly setting sun
+me She looks astonished as tears well up in her eyes
+me Then
+me I see something I'll never forget
+{charc=s3}
+me Her smile
+
+$ca
+$ns
+{fulltxt=true}
+me Thank you for playing! :)
+me This visual novel was made for the 2023 100% Orange Juice 2M Unconventional Art Contest
+me I hope you enjoyed it
+me Fell free to message me on Discord (@VNA#1772) and let me know what you thought!
+%route%
+
+%test%
+me test
+{charc=c, bg=main}
+me hello
+
+$ca
+me test2
+%test%

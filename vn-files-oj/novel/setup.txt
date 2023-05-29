@@ -1,0 +1,40 @@
+%notes%
+Don't change the layout
+%notes%
+
+%setup%
+{
+  "title": "4% Novel Juice!",
+  "subtitle": "Development test",
+  "creator": "VNA818",
+  "version": "(Beta) 1.0.0",
+  "icon": "",
+  "title-logo": "",
+  "home-bg": "sky.webp",
+  "color": "#FABE63",
+  "novel-base-url": "./",
+  "characters-base-url": "./vn-files/media/characters/",
+  "character-aliases": {
+    "alias-no-spaces": ["full name", "folder name", "filetype"],
+    "me": ["", "", ""],
+    "mes": ["You", "", ""],
+    "p": ["Creature", "popo", "webp"],
+    "s": ["Sora", "sora", "webp"],
+    "d": ["Dice", "dice", "webp"],
+    "c": ["Card", "card", "webp"]
+  },
+  "media-base-url": "./vn-files/media/backgrounds/",
+  "media": {
+    "main": "main.webp",
+    "sky": "sky.webp",
+    "test": "none"
+  },
+  "routes": {
+    "route1": "route1.txt"
+  }
+}
+%setup%
+
+%begin%
+routeo
+%begin%
