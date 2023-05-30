@@ -144,7 +144,7 @@ me Shaking any bad thoughts out of my head I prepare for its next roll
 p POPOPOPOPOPO!!
 {charc=d3}
 me A three
-{charc=battle}
+{charc=p2}
 me I feel life coming back into me
 me I start to get cocky again
 mes Three? Ha! At least try a little
@@ -264,14 +264,6 @@ $ns
 me Thank you for playing! :)
 me This visual novel was made for the 2023 100% Orange Juice 2M Unconventional Art Contest
 me I hope you enjoyed it
-me Fell free to message me on Discord (@VNA#1772) and let me know what you thought!
+me Feel free to message me on Discord (@VNA#1772) and let me know what you thought!
+me end
 %route%
-
-%test%
-me test
-{charc=c, bg=main}
-me hello
-
-$ca
-me test2
-%test%
